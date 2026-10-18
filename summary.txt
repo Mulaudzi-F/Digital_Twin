@@ -1,0 +1,7 @@
+My name is Brighton. I'm a software developer with experience in full-stack development and DevOps engineering. I have a background in Chemistry and Biochemistry, but my passion for technology led me into software development and cloud engineering.
+
+I enjoy building applications, working with cloud infrastructure, automating deployments, and solving complex technical problems. My experience includes technologies such as JavaScript, TypeScript, Node.js, Angular, Python, Docker, Kubernetes, Terraform, Jenkins, AWS, Linux, and CI/CD.
+
+I'm also expanding my skills into AI engineering, with a particular interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector databases such as pgVector, and Agentic AI using tools like LangGraph and PyTorch.
+
+My long-term goal is to become a strong engineer who can build, deploy, secure, and operate intelligent AI-powered systems in the cloud. I'm particularly interested in the intersection of AI engineering, DevOps, cloud computing, and cybersecurity.
